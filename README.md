@@ -1,5 +1,5 @@
 # Swiftbook
-Profession training projects iOS developer
+IOS Developer training projects 
 
 # Repositories:
 - Joke Generator. https://github.com/Trome29/JokeGenerator
