@@ -2,6 +2,8 @@
 IOS Developer training projects 
 
 # Repositories:
+## Core Data
+- Task List. https://github.com/Trome29/TaskList/tree/alert
 ## Networking
 - Joke Generator. https://github.com/Trome29/JokeGenerator
 ## UIKit
