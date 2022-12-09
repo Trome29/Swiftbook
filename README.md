@@ -2,6 +2,8 @@
 IOS Developer training projects 
 
 # Repositories:
+## SwiftUI
+- Traffic Light. https://github.com/Trome29/TrafficLightSUI
 ## Realm
 - To-do list. https://github.com/Trome29/RealmApp
 ## Core Data
