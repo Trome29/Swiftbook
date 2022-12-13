@@ -3,6 +3,7 @@ IOS Developer training projects
 
 # Repositories:
 ## SwiftUI
+- Colorized App. https://github.com/Trome29/ColorizedAppSUI
 - Traffic Light. https://github.com/Trome29/TrafficLightSUI
 ## Realm
 - To-do list. https://github.com/Trome29/RealmApp
